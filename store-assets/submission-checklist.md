@@ -5,6 +5,7 @@
 - [ ] Run `./build-release.sh`.
 - [ ] Upload `dist/youtube-transcript-exporter-1.1.0.zip` in Chrome Developer Dashboard.
 - [ ] Confirm `manifest.json` version is higher than the previously published version.
+- [ ] Public repository: `https://github.com/x-mp/youtube-transcript-exporter`.
 
 ## Manual QA
 
@@ -27,7 +28,8 @@
 - [ ] Permission justification: use the `downloads` text from `store-assets/listing.md`.
 - [ ] Host access justification: use the YouTube host access text from `store-assets/listing.md`.
 - [ ] Test instructions: use the review instructions from `store-assets/listing.md`.
-- [ ] Privacy policy URL: publish `PRIVACY.md` as a public page and paste that URL.
+- [ ] Privacy policy URL: `https://raw.githubusercontent.com/x-mp/youtube-transcript-exporter/main/PRIVACY.md`.
+- [ ] Optional nicer URL: enable GitHub Pages from `main` / `docs`, then use `https://x-mp.github.io/youtube-transcript-exporter/privacy.html`.
 
 ## Graphics
 

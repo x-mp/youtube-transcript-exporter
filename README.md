@@ -10,6 +10,8 @@ Chrome Web Store publication settings:
 - Category: Productivity
 - Pricing: Free
 - Language behavior: interface-language aware transcript selection when YouTube provides matching caption tracks
+- Public repository: https://github.com/x-mp/youtube-transcript-exporter
+- Privacy policy URL: https://raw.githubusercontent.com/x-mp/youtube-transcript-exporter/main/PRIVACY.md
 
 The exported file includes:
 

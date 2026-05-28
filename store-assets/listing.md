@@ -1,5 +1,19 @@
 # Chrome Web Store Listing
 
+## Public Repository
+
+https://github.com/x-mp/youtube-transcript-exporter
+
+## Privacy Policy URL
+
+Use this URL in the Chrome Web Store Privacy tab:
+
+https://raw.githubusercontent.com/x-mp/youtube-transcript-exporter/main/PRIVACY.md
+
+Optional nicer GitHub Pages URL after enabling Pages from `main` / `docs`:
+
+https://x-mp.github.io/youtube-transcript-exporter/privacy.html
+
 ## Item Language
 
 English
