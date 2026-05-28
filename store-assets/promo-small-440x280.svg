@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="280" viewBox="0 0 440 280">
+  <rect width="440" height="280" rx="0" fill="#f7f8fb"/>
+  <rect x="30" y="32" width="96" height="96" rx="24" fill="#d52020"/>
+  <rect x="52" y="56" width="52" height="34" rx="8" fill="#fff"/><path d="M73 65v17l17-8.5z" fill="#d52020"/>
+  <path d="M56 106h44M66 120h24" stroke="#ffe8e8" stroke-width="6" stroke-linecap="round"/>
+  <text x="152" y="67" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#17202a">YouTube</text>
+  <text x="152" y="102" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#17202a">Transcript Exporter</text>
+  <text x="34" y="174" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#17202a">Export transcripts to clean TXT</text>
+  <text x="34" y="209" font-family="Inter, Arial, sans-serif" font-size="16" fill="#5b6877">Timestamps, metadata, chapters, local download.</text>
+  <rect x="34" y="232" width="140" height="30" rx="15" fill="#ffe8e8"/>
+  <text x="54" y="253" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" fill="#b91d1d">Free extension</text>
+</svg>

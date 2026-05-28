@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <rect width="1280" height="800" fill="#f7f8fb"/>
+  <rect x="46" y="42" width="1188" height="716" rx="24" fill="#fff" stroke="#d8e0ea"/>
+  <rect x="46" y="42" width="1188" height="64" rx="24" fill="#f0f2f5"/>
+  <circle cx="80" cy="74" r="8" fill="#ff5f57"/><circle cx="106" cy="74" r="8" fill="#febc2e"/><circle cx="132" cy="74" r="8" fill="#28c840"/>
+  <rect x="186" y="62" width="570" height="24" rx="12" fill="#e1e6ec"/>
+  <text x="212" y="80" font-family="Inter, Arial, sans-serif" font-size="15" fill="#5b6877">youtube.com/watch?v=research-video</text>
+  <rect x="88" y="146" width="735" height="414" rx="14" fill="#111827"/>
+  <rect x="88" y="146" width="735" height="414" rx="14" fill="#202938"/>
+  <circle cx="455" cy="353" r="54" fill="#d52020"/><path d="M439 322v62l54-31z" fill="#fff"/>
+  <rect x="88" y="584" width="430" height="28" rx="6" fill="#17202a"/>
+  <rect x="88" y="628" width="156" height="38" rx="19" fill="#f1f2f3"/><text x="134" y="652" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#0f0f0f">Like</text>
+  <rect x="258" y="628" width="44" height="38" rx="19" fill="#ffe8e8"/><path d="M280 638v17M272 647l8 8 8-8" stroke="#d52020" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="318" y="628" width="122" height="38" rx="19" fill="#f1f2f3"/><text x="350" y="652" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#0f0f0f">Share</text>
+  <rect x="866" y="146" width="322" height="514" rx="14" fill="#f7f8fb" stroke="#d8e0ea"/>
+  <text x="898" y="198" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#17202a">Transcript exported</text>
+  <text x="898" y="234" font-family="Inter, Arial, sans-serif" font-size="18" fill="#5b6877">Clean TXT with timestamps,</text>
+  <text x="898" y="260" font-family="Inter, Arial, sans-serif" font-size="18" fill="#5b6877">title, URL, channel and chapters.</text>
+  <rect x="898" y="300" width="258" height="300" rx="10" fill="#fff" stroke="#d8e0ea"/>
+  <text x="922" y="338" font-family="SFMono-Regular, Menlo, monospace" font-size="15" fill="#17202a">=== Video metadata ===</text>
+  <text x="922" y="373" font-family="SFMono-Regular, Menlo, monospace" font-size="14" fill="#5b6877">Title: Product research</text>
+  <text x="922" y="401" font-family="SFMono-Regular, Menlo, monospace" font-size="14" fill="#5b6877">URL: youtube.com/...</text>
+  <text x="922" y="446" font-family="SFMono-Regular, Menlo, monospace" font-size="15" fill="#17202a">=== Transcript ===</text>
+  <text x="922" y="481" font-family="SFMono-Regular, Menlo, monospace" font-size="14" fill="#5b6877">[00:03] Welcome...</text>
+  <text x="922" y="509" font-family="SFMono-Regular, Menlo, monospace" font-size="14" fill="#5b6877">[00:18] The key point...</text>
+  <text x="922" y="537" font-family="SFMono-Regular, Menlo, monospace" font-size="14" fill="#5b6877">[01:04] Summary...</text>
+</svg>
